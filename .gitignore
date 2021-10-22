@@ -143,3 +143,6 @@ temp.csv
 # Generated reports
 report_LadyHuntingfield/
 report_Library/
+
+*.csv
+*.rar
